@@ -4,7 +4,19 @@ Equipo: CEO / Orchestrator con `market-research` y `finance-unit-economics`. El 
 
 ## Catálogo actual
 
-No hay catálogo activo en este proyecto ni datos de la tienda anterior de printable nursery art. **Dato que falta:** si esa tienda sigue abierta, sus visitas, ventas y reseñas de los últimos 12 meses (Etsy > Estadísticas, exportable). Reutilizarla ahorra la tarifa de apertura y aporta reseñas.
+Tienda **VelvetAcornStudio** (https://www.etsy.com/shop/VelvetAcornStudio), consultada el 5/10/2026: abierta desde hace unos 9 meses, en inglés, ubicada en Peralada (España). Estilo acuarela, animales del bosque, tonos pastel.
+
+- 1 listing activo: "Personalized Watercolor Nursery Name Print, Woodland Animals (Digital Download)" a 5,85 $.
+- 2 ventas, 0 reseñas.
+- La personalización se entrega a mano en 24 h.
+
+**Diagnóstico (INFERENCIA):** con un solo listing no hay catálogo que optimizar; el problema es de volumen de oferta, no de conversión. La personalización manual a 5,85 $ deja muy poco por hora y no escala.
+
+**Decisiones:**
+- Reutilizar la tienda para la línea bilingüe español-inglés: mismo público (EE. UU., nursery), mismo idioma y estilo acuarela del bosque, y sin tarifa de apertura. **HACER.**
+- Añadir una versión bilingüe del listing de nombre ("nombre + significado" o "Te quiero hasta la luna" con nombre). **VALIDAR** con eRank.
+- Convertir la personalización manual en plantilla editable (Canva o PDF rellenable) para no tener trabajo por pedido y subir el precio a 7,99–9,99 $. **VALIDAR**: revisar si los 2 compradores pidieron algo que una plantilla no cubra.
+- **Dato que falta:** estadísticas de la tienda (visitas, favoritos y keywords de los últimos 90 días, en Etsy > Estadísticas).
 
 ## Límites de la evidencia
 
@@ -38,7 +50,7 @@ No hay catálogo activo en este proyecto ni datos de la tienda anterior de print
 - **Esfuerzo:** bajo; encaja con la experiencia previa de la propietaria.
 - **Riesgos:** errores de idioma o regionalismos; derechos de letras de canciones; que la demanda sea sobre todo educativa.
 - **Score:** Demanda 14 · Diferenciación 11 · Precio 9 · Velocidad 8 · Bundle 9 · Evergreen 9 · Tráfico externo 4 · Encaje 5 · Automatización 4.
-- **Recomendación:** **VALIDAR con eRank y lanzar 2 sets MVP**, en la tienda de nursery existente si sigue activa.
+- **Recomendación:** **VALIDAR con eRank y lanzar 2 sets MVP** en VelvetAcornStudio, con el mismo estilo acuarela del bosque.
 
 ### 3. Rutinas visuales infantiles en español de España (+ catalán) — 71/100
 

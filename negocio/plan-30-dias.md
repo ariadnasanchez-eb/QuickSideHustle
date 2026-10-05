@@ -5,17 +5,19 @@ Basado en `negocio/auditoria-2026-10-05.md`. Pensado para una sesión semanal de
 ## Prioridades
 
 - **P0 — Planificador para opositores (C2 Auxiliar Administrativo) publicado antes del 20 de octubre.** Es la mayor bolsa de plazas de la OEP y la ventana de convocatorias es noviembre–diciembre.
-- **P1 — Dos sets de láminas bilingües para habitación infantil publicados antes del 3 de noviembre**, en la tienda de nursery existente si sigue activa.
+- **P1 — Dos sets de láminas bilingües para habitación infantil publicados antes del 3 de noviembre** en VelvetAcornStudio, con su estilo acuarela del bosque.
 - **P2 — Validar rutinas visuales con eRank** y dejarlas en backlog con decisión, sin producir.
 
 Qué **no** hacer este mes: planificador para autónomos, colorear para KDP, kit de comunión, Etsy Ads de pago, redes sociales distintas de Pinterest.
 
-## Decisión por defecto sobre tiendas
+## Tiendas
 
-El planificador para opositores va en una **tienda nueva en español** (marca de estudio y organización), porque mezclarlo con nursery art confunde a los dos públicos. Las láminas bilingües van en la **tienda de nursery existente**, que ya tiene marca y quizá reseñas. Si la tienda antigua está cerrada, se empieza solo con la nueva y P1 espera.
+- **VelvetAcornStudio** (existente, inglés, nursery acuarela, 1 listing, 2 ventas): recibe la línea bilingüe español-inglés. Mismo público y estilo, sin tarifa de apertura.
+- **Tienda nueva en español** para el planificador de opositores, porque mezclarlo con nursery confunde a los dos públicos.
 
 ## Semana 1 (6–12 oct): validar y montar
 
+- [ ] Exportar las estadísticas de VelvetAcornStudio de los últimos 90 días (visitas, favoritos, keywords). (Propietaria, 10 min.)
 - [ ] Contratar eRank un mes (~10 €) y sacar volumen y competencia de: "planificador oposiciones", "agenda opositor", "planner oposiciones", "opoplanner", "spanish nursery decor", "bilingual nursery", "spanish lullaby print", "rutinas visuales", "tablero de rutinas". (Propietaria, 30 min.)
 - [ ] Decisión del CEO con esos datos: confirma o cambia P0/P1. Una keyword con volumen casi nulo en Etsy pasa a APARCAR.
 - [ ] Abrir la tienda nueva en español (precios en EUR, cobro en EUR, Offsite Ads desactivado si se puede). (Propietaria, 30 min.)
@@ -36,7 +38,7 @@ El planificador para opositores va en una **tienda nueva en español** (marca de
 
 ## Semana 4 (27 oct – 2 nov): publicar P1 y medir
 
-- [ ] Publicar los 2 sets bilingües.
+- [ ] Publicar los 2 sets bilingües en VelvetAcornStudio y convertir el listing de nombre personalizado en plantilla editable a 7,99–9,99 $ si la validación lo apoya.
 - [ ] Primera `/revision-semanal` con los datos de Etsy: visitas, favoritos, ventas y conversión por listing.
 - [ ] Registrar aprendizajes en `negocio/aprendizajes.md` (horas reales por producto, keywords que traen visitas).
 
@@ -57,7 +59,7 @@ eRank 1 mes ~10 € · apertura de tienda nueva 0–30 € (importe según Etsy)
 
 ## Datos que faltan
 
-- Estado y estadísticas de la tienda de nursery anterior.
+- Estadísticas de VelvetAcornStudio (90 días).
 - Volúmenes de eRank (semana 1).
 - Importe real de apertura de tienda que muestre Etsy.
 - Horas reales del primer PDF.
