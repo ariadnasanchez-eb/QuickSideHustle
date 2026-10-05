@@ -143,3 +143,11 @@ Equivale a ~1,3 h por pieza (objetivo ≤3 h). Cada variante de color posterior:
 1. La propietaria: 5 búsquedas de eRank (semana 1) y confirmar el origen y la licencia de las ilustraciones de la lámina actual.
 2. `design-director`: producir según `brief-diseno.md`.
 3. `finance-unit-economics`: validar 17,99 $ y el descuento de lanzamiento.
+
+## Decisiones confirmadas (5/10/2026)
+
+- **Ilustraciones hechas con IA** (las de la tienda actual también). Se pueden vender como "Designed by a seller", pero hay que **indicar en la descripción del listing que se han creado con IA** (HECHO, [Etsy Creativity Standards](https://www.etsy.com/legal/creativity)). Añadido a la checklist de QA.
+- **Canva gratuito.** Una cuenta gratuita puede generar y compartir el enlace de plantilla (HECHO según [Growing Your Craft](https://www.growingyourcraft.com/blog/how-to-sell-canva-templates-on-etsy-guide), fuente secundaria). Reglas:
+  - Usar **solo elementos y fuentes gratuitos de Canva**: si hay elementos Pro, el comprador con cuenta gratuita tiene que pagarlos.
+  - Las ilustraciones van como imágenes propias subidas a la plantilla, no como elementos de Canva.
+  - El diseño debe ser una composición original, no un elemento de Canva casi sin cambios (licencia de Canva).

@@ -75,13 +75,13 @@ Love these woodland friends? Find the matching personalized nursery name print i
 TERMS OF USE
 For personal use only. Please do not share, resell or redistribute the files or the Canva template links.
 
-The watercolor illustrations were designed by VelvetAcornStudio with the help of AI tools and finished by hand.
+The watercolor illustrations were designed by VelvetAcornStudio with the help of AI tools.
 
 Questions? Send us a message and we'll be happy to help.
 ```
 
 Notas para `product-qa`:
-- Dejar la línea de IA solo si se usan ilustraciones generadas con IA. Si las ilustraciones son 100 % propias, quitarla.
+- La línea de IA es obligatoria (ilustraciones hechas con IA, confirmado el 5/10). No añadir "finished by hand" salvo que se retoquen a mano.
 - Comprobar que "No Canva Pro required" es cierto con una cuenta gratuita antes de publicar.
 - El 18x24 debe existir en la plantilla de Canva; si no se incluye, quitarlo de la descripción y del título de la pieza suelta.
 
