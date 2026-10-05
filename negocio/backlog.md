@@ -2,12 +2,12 @@
 
 Lo mantiene `ceo-orchestrator`. Score según `CLAUDE.md`. Decisión: HACER / VALIDAR / APARCAR / DESCARTAR.
 
-Última actualización: 2026-10-05 (auditoría inicial, ver `negocio/auditoria-2026-10-05.md`).
+Última actualización: 2026-10-05 (auditoría inicial, ver `negocio/auditoria-2026-10-05.md`). Restricción: de momento todo va en VelvetAcornStudio, sin abrir tienda nueva.
 
 | Prioridad | Idea | Mercado | Score | Evidencia | Esfuerzo | Decisión | Próximo paso |
 |---|---|---|---|---|---|---|---|
-| P0 | Planificador para opositores con variantes por oposición | España (ES) | 71 | OEP 2026 del Estado con 37.017 plazas y convocatorias antes del 31/12 (HECHO); poca oferta específica en Etsy y demanda pagada en Amazon y El Corte Inglés (HECHO); demanda dentro de Etsy sin verificar | Bajo-medio | VALIDAR → HACER MVP | eRank + MVP C2 Auxiliar Administrativo antes de noviembre |
-| P0 | Láminas bilingües ES-EN decorativas para habitación infantil | EE. UU. | 73 | 44,9 M hablan español en casa (HECHO); lo bilingüe educativo vende, lo decorativo apenas existe (INFERENCIA) | Bajo | VALIDAR → HACER MVP | eRank + 2 sets MVP (nanas tradicionales, abecedario con Ñ) |
+| P2 | Planificador para opositores con variantes por oposición | España (ES) | 71 | OEP 2026 del Estado con 37.017 plazas y convocatorias antes del 31/12 (HECHO); poca oferta específica en Etsy y demanda pagada en Amazon y El Corte Inglés (HECHO); demanda dentro de Etsy sin verificar | Bajo-medio | APARCAR | Necesita tienda en español; sin tienda nueva por ahora (decisión 5/10). Validar con eRank y retomar cuando haya ventas |
+| P0 | Láminas bilingües ES-EN decorativas para habitación infantil | EE. UU. | 73 | 44,9 M hablan español en casa (HECHO); lo bilingüe educativo vende, lo decorativo apenas existe (INFERENCIA) | Bajo | VALIDAR → HACER MVP | eRank + 2 sets MVP en VelvetAcornStudio antes del 20/10 |
 | P1 | Rutinas visuales infantiles ES (+ catalán) | España | 71 | Listings con 734 a 9k reseñas (HECHO, contador ambiguo) | Medio | VALIDAR | eRank; pictogramas propios (ARASAAC no permite uso comercial) |
 | P2 | Libro para colorear de trazo grueso para mayores (KDP) | ES | 60 | Lo genérico rinde mal y los nichos específicos mejor (INFERENCIA) | Medio | APARCAR | Revisar BSR en Amazon.es |
 | P2 | Kit editable de Primera Comunión | España | 58 | 162.580 al año, en caída del 35 % en una década (HECHO); competencia alta con anuncios | Medio | APARCAR | Reevaluar en diciembre de 2026 |
